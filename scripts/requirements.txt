@@ -1,1 +1,1 @@
-cassandra-driver
+psycopg2-binary
